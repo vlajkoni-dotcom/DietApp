@@ -1,0 +1,2 @@
+# Aplikacija koristi samo standardnu Python biblioteku.
+# Tkinter je obično uključen uz Python instalaciju.
